@@ -21,9 +21,10 @@
 * Calculadora. Esta misma arroja el precio a partir de la paridad, es decir, podremos pedir el valor en USD a partir de una suma de BTC. 
 
 
-### RECURSOS
+## RECURSOS
 * Documentación API FTX: https://docs.ftx.com/#overview
 * Repositorio oficial: https://github.com/ccxt/ccxt
 * Referencia de dashboard FTX: https://ftx.com/trade/DASH-PERP
 
+## RESULTADO
 ![Image text](https://github.com/Yoelcaro14/Analisis-de-cryptomonedas/blob/master/Dash_crypto.PNG)
