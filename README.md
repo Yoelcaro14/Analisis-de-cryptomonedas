@@ -6,7 +6,7 @@
 
 
 # **¿En que consiste el proyecto?**
-Creacion de un Dashboard dinámico que refleja mediante storytelling un análisis de las 10 Top cryptomonedas (según: [coinmarketcap.com ](https://coinmarketcap.com/es/) ) que presentan mayor volumen de transacciones realizados de forma mensual en el 2022.
+Creacion de un Dashboard dinámico que refleja mediante storytelling un análisis de las 10 Top cryptomonedas (según: [coinmarketcap.com ](https://coinmarketcap.com/es/) ) que presentan mayor volumen de transacciones realizados mensualmente en el 2022.
 
 ## Consigna
 
